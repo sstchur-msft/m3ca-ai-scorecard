@@ -1,0 +1,12 @@
+{
+  "name": "ai-scorecard",
+  "description": "M3CA AI Readiness Scorecard — evaluate repositories against 42 AI readiness criteria across 5 categories. Features an orchestrator agent, per-criterion skills (contributable by v-team members), and an interactive web-based report.",
+  "version": "1.0.0",
+  "author": {
+    "name": "M3CA",
+    "email": "stchur@microsoft.com"
+  },
+  "keywords": ["scorecard", "ai-readiness", "evaluation", "m3ca"],
+  "agents": "agents/",
+  "skills": ["skills/"]
+}

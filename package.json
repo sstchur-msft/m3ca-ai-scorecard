@@ -1,0 +1,12 @@
+{
+  "name": "m3ca-ai-scorecard",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "M3CA AI Readiness Scorecard — Copilot CLI plugin with agent, skills, and interactive web report",
+  "bin": {
+    "scorecard-server": "./server/scorecard-server.mjs"
+  },
+  "keywords": ["scorecard", "ai-readiness", "copilot", "m3ca"],
+  "author": "M3CA",
+  "license": "MIT"
+}

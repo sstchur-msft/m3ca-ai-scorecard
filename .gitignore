@@ -1,0 +1,6 @@
+node_modules
+scorecard.json
+scorecard-scan.json
+scorecard-context.json
+scorecard.html
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "name": "m3ca-scorecard-marketplace",
+  "owner": {
+    "name": "M3CA",
+    "email": "stchur@microsoft.com"
+  },
+  "metadata": {
+    "description": "M3CA AI Readiness Scorecard plugin for Copilot CLI",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-scorecard",
+      "description": "Evaluate repositories against 42 AI readiness criteria. Features an orchestrator agent, per-criterion skills contributable by v-team members, and an interactive web-based report.",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
